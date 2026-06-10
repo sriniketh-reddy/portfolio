@@ -15,7 +15,7 @@ export const portfolioData = {
       institution: "CVR College of Engineering, Hyderabad",
       degree: "B.Tech. in Computer Science and Engineering (AI-ML)",
       duration: "Nov 2022 – Present",
-      score: "CGPA: 8.55"
+      score: "CGPA: 8.53"
     },
     {
       institution: "Nxtwave Disruptive Technologies",
